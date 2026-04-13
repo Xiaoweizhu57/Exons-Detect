@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Exons-Detect
+message: "If you use this software, please cite the repository and the associated paper."
+type: software
+authors:
+  - family-names: Exons-Detect
+    given-names: Authors
+version: 0.1.0
+license: Apache-2.0
